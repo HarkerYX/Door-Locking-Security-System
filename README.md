@@ -1,3 +1,3 @@
 # Door-Locking-Security-System
 Door Locker Security System consists of two ECU’s. The first ECU called HMI responsible for interfacing with the user and the second ECU called control ECU which is responsible for the system operations and control. In the project I implemented the following drivers Keypad, LCD, DC Motor, UART, Timer, I2C and External EEPROM.
-(https://www.youtube.com/watch?v=-WGr05aUY2A&t=52s)
+[YouTube Link](https://www.youtube.com/watch?v=-WGr05aUY2A&t=52s)
